@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Brandon Stark's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunshinewhy&repo=github-readme-stats&theme=radical)](https://github.com/sunshinewhy/github-readme-stats)
+[![Brandon Stark's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunshinewhy&repo=github-readme-stats&theme=flag-india)](https://github.com/sunshinewhy/github-readme-stats)
 
 [![Brandon Stark's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunshinewhy&show_icons=true&theme=radical)](https://github.com/sunshinewhy/github-readme-stats)
 
